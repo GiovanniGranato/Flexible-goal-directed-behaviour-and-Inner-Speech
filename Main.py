@@ -622,7 +622,10 @@ WM_Activations_plot = Analysis_Tools_WCST.Plot_WM_values(
                                     System_params
                                     )
 
-Errors_Plot = Analysis_Tools_WCST.Plot_WSCT_single_subject(System_params, Errors_list)
+Errors_Plot = Analysis_Tools_WCST.Plot_WSCT_single_subject(System_params,
+                                                           len(responses_list),
+                                                           Errors_list
+                                                           )
 
 plt.show(WM_Activations_plot)
 plt.show(Errors_Plot)
