@@ -547,6 +547,7 @@ def Graphics(int_env,
     return int_fov_im, ext_fov_im
 
 def Plot_WSCT_single_subject(params,
+                             trials_numbers,
                              Errors_list):
     # Data_to plot..
 
@@ -559,6 +560,13 @@ def Plot_WSCT_single_subject(params,
     perseverative_errors = Errors_list[1]
     not_perseverative_errors = Errors_list[2]
     distraibility_errors = Errors_list[3]
+
+    # PERCENTS
+
+    total_errors_percent = np.around((total_errors / trials_numbers) * 100, decimals = 2)
+    perseverative_errors_percent = np.around((perseverative_errors / total_errors) * 100, decimals = 2)
+    not_perseverative_errors_percent = np.around((not_perseverative_errors / total_errors) * 100, decimals = 2)
+
 
     Y_data_to_plot = np.around(np.transpose(
         np.array([categories_completed, total_errors, 0, perseverative_errors, not_perseverative_errors, 0,
@@ -618,6 +626,11 @@ def Plot_WSCT_single_subject(params,
     #         Table_Errors[column] = copy.deepcopy(val)
 
     Table_Errors = np.array(Subjects_measures_all_matrices, dtype='str')
+
+    Table_Errors[1] += str(' (') + str(total_errors_percent) + str('%)')
+    Table_Errors[2] += str(' (') + str(perseverative_errors_percent) + str('%)')
+    Table_Errors[3] += str('(') + str(not_perseverative_errors_percent) + str('%)')
+
     Table_comparison = Tables_errors_systems.table(cellText= [Table_Errors],
                                                    rowColours=['g'],
                                                    colColours=['#6495ED', '#6495ED', '#6495ED', '#6495ED', '#6495ED'],
