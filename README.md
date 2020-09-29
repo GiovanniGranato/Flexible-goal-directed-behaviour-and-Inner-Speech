@@ -4,7 +4,7 @@ This project investigates the relation between inner speech (a self-directed for
 
 
 <p align="center">
-  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-Inner-Speech/blob/master/Functional_and_computaitonal_schema.jpg?raw=true" width="1000" title="hover text">
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-Inner-Speech/blob/master/Functional_and_computational_schema.png?raw=true" width="1000" title="hover text">
 </p>
 
 The repository is organized in this way:
