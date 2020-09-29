@@ -2,6 +2,11 @@
 
 This project investigates the relation between inner speech (a self-directed form of language) and the flexible goal-directed behaviour. In partricular this repository contains a computational model used to approach this research topic (Granato et al., 2020).
 
+
+<p align="center">
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-Inner-Speech/blob/master/Functional_and_computaitonal_schema.jpg?raw=true" width="1000" title="hover text">
+</p>
+
 The repository is organized in this way:
 
 - Main:                                                                                       # Main file to run to execute the WCST
