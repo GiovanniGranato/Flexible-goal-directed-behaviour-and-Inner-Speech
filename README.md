@@ -23,4 +23,4 @@ The repository is organized in this way:
       
       
       
-Granato, G., Borghi, A. M., & Baldassarre, G. (2020). A computational model of language functions in flexible goal-directed behaviour. Scientific Reports. (PsyArxiv: https://doi.org/10.31234/osf.io/kn3vc)
+Granato, G., Borghi, A. M., & Baldassarre, G. (2020). A computational model of language functions in flexible goal-directed behaviour. Scientific Reports. (https://www.nature.com/articles/s41598-020-78252-y)
