@@ -7,7 +7,7 @@ Note that this projects extends the three-component theory of flexible cognition
 <p align="center">
 Extended three-components theory of flexible cognition
 
-  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-Inner-Speech/blob/master/Functional_and_computational_schema.png?raw=true" width="1000" title="hover text">
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-Inner-Speech/blob/master/ETCT.png?raw=true" width="1000" title="hover text">
 </p>
 
 <p align="center">
