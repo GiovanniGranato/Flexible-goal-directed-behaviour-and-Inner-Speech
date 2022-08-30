@@ -1,6 +1,6 @@
 # Flexible-goal-directed-behaviour-and-Inner-Speech
 
-This project investigates the relation between inner speech (a self-directed form of language) and the flexible goal-directed behaviour. In partricular this repository contains a computational model used to approach this research topic (Granato et al., 2020).
+This project investigates the relation between inner speech (a self-directed form of language) and the flexible goal-directed behaviour. In partricular this repository contains a computational model used to approach this research topic (Granato et al. 2022; Granato et al., 2020).
 
 
 <p align="center">
