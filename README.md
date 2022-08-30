@@ -23,4 +23,8 @@ The repository is organized in this way:
       
       
       
+Granato, G., Borghi, A. M., Mattera, A., & Baldassarre, G. (2022). A computational model of inner speech supporting flexible goal-directed behaviour in Autism. Scientific reports, 12(1), 1-15. (https://www.nature.com/articles/s41598-022-18445-9)
+
 Granato, G., Borghi, A. M., & Baldassarre, G. (2020). A computational model of language functions in flexible goal-directed behaviour. Scientific Reports. (https://www.nature.com/articles/s41598-020-78252-y)
+
+
