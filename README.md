@@ -1,9 +1,18 @@
 # Flexible-goal-directed-behaviour-and-Inner-Speech
 
-This project investigates the relation between inner speech (a self-directed form of language) and the flexible goal-directed behaviour. In partricular this repository contains a computational model used to approach this research topic (Granato et al. 2022; Granato et al., 2020).
+This project investigates the relation between inner speech (a self-directed form of language) and the flexible goal-directed behaviour. In partricular this repository contains a computational model used to approach this research topic in Granato et al. (2022) and Granato et al. (2020). The model performs a neuropsycholoigcal task probing cognitive flexibility (the Wisconsin Cards Sorting test, WCST).
 
+Note that this projects extends the three-component theory of flexible cognition and the related computational model (Granato and baldassarre, 2021), considering both first-order representations (perceptual system) and second-order representations (working memory).
 
 <p align="center">
+Extended three-components theory of flexible cognition
+
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-Inner-Speech/blob/master/Functional_and_computational_schema.png?raw=true" width="1000" title="hover text">
+</p>
+
+<p align="center">
+Computational model
+
   <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-Inner-Speech/blob/master/Functional_and_computational_schema.png?raw=true" width="1000" title="hover text">
 </p>
 
